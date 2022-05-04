@@ -1,0 +1,45 @@
+
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+/* COMIENZO BARRA DE NAVEGACION */
+
+.navbar{
+    background-color: #253961 ;
+}
+
+.nav-link{
+    color: rgb(0, 0, 0) !important;
+}
+
+/* FIN BARRA DE NAVEGACION */
+
+/* COMIENXO CARRUSEL */
+
+.carousel-item{
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+
+/* COMIENZO DE LAS TARJETA */
+.btn{
+    border: solid 1px #000;
+    color: aliceblue;
+}
+/* FIN DE LAS TARJETAS */
+
+/* COMIENDO DE FOOTER */
+.page-footer{
+    background-color: #253961;
+    color: aliceblue;
+}
+/* FIN DE FOOTER */
+
